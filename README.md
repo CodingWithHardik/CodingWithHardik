@@ -22,4 +22,4 @@ ___
 Output : &quot;hello-world&quot;"><pre class="notranslate"><code>Input  : "hello world"
 Output : "hello-world"
 </code></pre></div>
-[![@codingwithhardik's Holopin board]([https://holopin.io/api/user/board?user=codingwithhardik](https://www.cloudskillsboost.google/public_profiles/52e3f8aa-eb4b-42a7-ae2a-e3ef1d8d44fb/badges/2651706))](https://holopin.io/@codingwithhardik)
+[!([https://holopin.io/api/user/board?user=codingwithhardik](https://www.cloudskillsboost.google/public_profiles/52e3f8aa-eb4b-42a7-ae2a-e3ef1d8d44fb/badges/2651706))](https://holopin.io/@codingwithhardik)
