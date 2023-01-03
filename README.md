@@ -14,7 +14,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Currently Working On Fonex Discord Bot
-GitHub Page :- (FonexGroup)](https://github.com/FonexGroup)
+GitHub Page :- [FonexGroup](https://github.com/FonexGroup)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CodingWithHardik&icon=0&color=0)](https://visitcount.itsvg.in)
