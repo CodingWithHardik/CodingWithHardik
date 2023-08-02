@@ -1,4 +1,4 @@
-[![banner](https://i.ibb.co/1zK5fK4/Appscriptbanner.png)](https://i.ibb.co/1zK5fK4/Appscriptbanner.png)
+[![banner](https://i.ibb.co/zXKQ3zc/GC-arcade-header-images-desktop-x3-v2123.png)](https://i.ibb.co/zXKQ3zc/GC-arcade-header-images-desktop-x3-v2123.png)
 # 💻Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 # 📊GitHub Stats :
