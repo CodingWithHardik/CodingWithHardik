@@ -7,7 +7,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithHardik&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆Achievements
-[![@codingwithhardik's Holopin board](https://holopin.io/api/user/board?user=codingwithhardik)](https://holopin.io/@codingwithhardik)
 ![](https://github-trophies.vercel.app/?username=CodingWithHardik&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
