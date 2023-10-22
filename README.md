@@ -17,3 +17,4 @@ GitHub Page :- [FonexGroup](https://github.com/FonexGroup)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CodingWithHardik&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![An image of @codingwithhardik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codingwithhardik)](https://holopin.io/@codingwithhardik)
