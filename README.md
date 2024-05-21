@@ -1,4 +1,4 @@
-[![banner](https://i.ibb.co/phZpyFF/ELECTRON-CA.png)](https://i.ibb.co/phZpyFF/ELECTRON-CA.png)
+[![banner](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/banner.png?raw=true)](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/banner.png?raw=true)
 # 💻Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 # 📊GitHub Stats :
