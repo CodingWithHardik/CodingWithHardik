@@ -5,6 +5,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=CodingWithHardik&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodingWithHardik&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithHardik&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# HackTime Stats :
+<a href="https://heatmap.shymike.dev?id=580&timezone=Asia%2FCalcutta&cell_size=20&padding=4&rounding=40&labels=true&theme=dark&standalone=true" title="Click to view detailed data for each day!">
+    <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=580&timezone=Asia%2FCalcutta&cell_size=20&padding=4&rounding=40&labels=true&theme=dark">
+</a>
 
 ## 🏆Achievements
 ![](https://github-trophies.vercel.app/?username=CodingWithHardik&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
